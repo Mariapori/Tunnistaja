@@ -1,6 +1,6 @@
-
 import cv2
 from mtcnn import MTCNN
+import time
 import imutils
 
 tunnistaja = MTCNN()
